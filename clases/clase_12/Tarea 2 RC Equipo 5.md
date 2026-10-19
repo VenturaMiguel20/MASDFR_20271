@@ -100,7 +100,7 @@ RC gasta más que autos en operación (5.5%–11.5% frente a 4%–5.3%) y paga m
 
 | Ramo y fuente                                | Adquisición neta ÷ emitida | Adquisición directa ÷ emitida | Comisiones y bonos ÷ emitida | Operación ÷ emitida | Combinado oficial |
 | -------------------------------------------- | ---------------------------: | ------------------------------: | ----------------------------: | --------------------: | ----------------: |
-| Autos, Quálitas 2025 (guía de la clase 12) |                        23.1% |                       Sin datos |                     Sin datos |                  5.3% |             94.1% |
+| Autos, Quálitas 2025 (guía de la clase 12) |                        23.1% |                       Sin datos |                         Sin  |                  5.3% |             94.1% |
 | Autos, AXA Seguros 2025                      |                        20.9% |                           21.1% |                         11.2% |                  4.4% |            102.8% |
 | Autos, GNP 2024                              |                        26.8% |                           26.5% |                          7.0% |                    4% |              102% |
 | RC, AXA Seguros 2025                         |                        16.4% |                           24.7% |                         14.8% |                 21.1% |            101.1% |
