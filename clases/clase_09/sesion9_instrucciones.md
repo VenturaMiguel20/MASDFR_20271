@@ -72,12 +72,12 @@ Con la **rúbrica de prácticas** (correctitud, justificación, código reproduc
 
 ## 6. Checklist antes de entregar
 
-- [ ] Vieron las slides y corrieron el notebook.
-- [ ] Resolvieron los 4 ejercicios; el notebook corre de principio a fin sin errores.
-- [ ] El notebook está en `entregas/equipo_XX/tarea_01/`.
-- [ ] El Ejercicio 4 tiene un supuesto **de su ramo**, con valor y fuente.
-- [ ] Abrieron **un** Pull Request `Equipo XX — Tarea 1 (Sesión 9)` hacia el repo del curso.
-- [ ] Pegaron el link del PR en Classroom, antes del **sábado 26, 23:59**.
+- [X] Vieron las slides y corrieron el notebook.
+- [X] Resolvieron los 4 ejercicios; el notebook corre de principio a fin sin errores.
+- [X] El notebook está en `entregas/equipo_XX/tarea_01/`.
+- [X] El Ejercicio 4 tiene un supuesto **de su ramo**, con valor y fuente.
+- [X] Abrieron **un** Pull Request `Equipo XX — Tarea 1 (Sesión 9)` hacia el repo del curso.
+- [X] Pegaron el link del PR en Classroom, antes del **sábado 26, 23:59**.
 
 ---
 
