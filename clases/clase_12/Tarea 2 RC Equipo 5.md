@@ -1,5 +1,13 @@
-# Tarea 2 — Recargos de Responsabilidad Civil 
+# Tarea 2 — Recargos de Responsabilidad Civil
 
+### Integrantes Equipo 5:
+
+- Avila Padilla Militza Esmeralda
+- Contreras Valeria Jade Fátima
+- Cruz Rodriguez Avril Azeneth
+- Jiménez Jiménez Brisa Yurubi
+- Moreno Ventura Miguel Angel
+- Ramirez Cabrera Miguel Ángel
 
 Para Responsabilidad Civil propongo **comisiones de 18.4% a 24.7%** y **gastos de 5.5% a 11.5%**, ambos sobre prima emitida.
 
@@ -19,6 +27,7 @@ Dos aseguradoras con tres años cada una, todas del Reporte sobre la Solvencia y
 | AXA Seguros, S.A. de C.V.               | RSCF 2025 | Montos 2025; índices 2023–2025 | Tabla D4 (p. 81); Tablas G1 a G5 (pp. 104–108); Tabla G9 (p. 112) |
 | Grupo Nacional Provincial, S.A.B. (GNP) | RSCF 2024 | Montos 2024; índices 2022–2024 | Sección D, Tabla D4; Sección G, Tablas G1 a G5                   |
 
+Archivos: [github.com/VenturaMiguel20/MASDFR_20271/tree/db378880f9361df6dc7a78d424e9ce704851ee22/clases/clase_12/Fuentes](https://github.com/VenturaMiguel20/MASDFR_20271/tree/db378880f9361df6dc7a78d424e9ce704851ee22/clases/clase_12/Fuentes)
 
 ## Índices calculados
 
@@ -43,19 +52,19 @@ Sobre prima emitida, la adquisición directa de RC es 24.7% en AXA (2025) y 18.4
 
 **Índices con la base de la guía**
 
-| Índice                                            | Cálculo                                      | AXA Seguros 2025 |        GNP 2024 |
-| -------------------------------------------------- | --------------------------------------------- | ---------------: | --------------: |
-| Adquisición neta ÷ emitida (método de la guía) | costo neto ÷ prima emitida                   |            16.4% |            2.4% |
-| Comisiones y bonos ÷ emitida                      | (comisiones + bonos) ÷ prima emitida         |            14.8% |           14.6% |
-| **Adquisición directa ÷ emitida**          | (comisiones + bonos + otros) ÷ prima emitida |  **24.7%** | **18.4%** |
-| Operación ÷ emitida (Tabla G4)                   | reportado, ya sobre prima emitida             |            21.1% |             12% |
-| Siniestralidad (Tabla G2)                          | reportado, sobre devengada retenida           |            46.6% |             33% |
-| Combinado, método guía                           | G2 + adquisición neta ÷ emitida + G4        |            84.0% |           47.4% |
-| Combinado oficial (Tabla G5)                       | reportado por la aseguradora                  |           101.1% |             52% |
+| Índice                                                 | Cálculo                                      | AXA Seguros 2025 |        GNP 2024 |
+| ------------------------------------------------------- | --------------------------------------------- | ---------------: | --------------: |
+| Adquisición neta ÷ emitida (método dado en la guía) | costo neto ÷ prima emitida                   |            16.4% |            2.4% |
+| Comisiones y bonos ÷ emitida                           | (comisiones + bonos) ÷ prima emitida         |            14.8% |           14.6% |
+| **Adquisición directa ÷ emitida**               | (comisiones + bonos + otros) ÷ prima emitida |  **24.7%** | **18.4%** |
+| Operación ÷ emitida (Tabla G4)                        | reportado, ya sobre prima emitida             |            21.1% |             12% |
+| Siniestralidad (Tabla G2)                               | reportado, sobre devengada retenida           |            46.6% |             33% |
+| Combinado (método dado en la guía)                   | G2 + adquisición neta ÷ emitida + G4        |            84.0% |           47.4% |
+| Combinado oficial (Tabla G5)                            | reportado por la aseguradora                  |           101.1% |             52% |
 
 La adquisición neta sale baja porque RC cede mucha prima y el reasegurador paga comisiones (-193 y -145 millones) que restan al costo. Por eso la adquisición directa, antes de reaseguro, es la cifra útil para la tarifa. El combinado oficial es mayor porque la CNSF divide la adquisición entre prima retenida, no emitida.
 
-**Series oficiales de RC en las Tablas G1 a G5 (porcentajes tal como los reporta cada aseguradora)**
+**Series oficiales de RC en las Tablas G1 a G5**
 
 | Fuente y año | Prima emitida (millones) | Siniestralidad (G2) | Adquisición (G3) | Operación (G4) | Combinado (G5) |
 | ------------- | -----------------------: | ------------------: | ----------------: | --------------: | -------------: |
@@ -91,14 +100,10 @@ RC gasta más que autos en operación (5.5%–11.5% frente a 4%–5.3%) y paga m
 
 | Ramo y fuente                                | Adquisición neta ÷ emitida | Adquisición directa ÷ emitida | Comisiones y bonos ÷ emitida | Operación ÷ emitida | Combinado oficial |
 | -------------------------------------------- | ---------------------------: | ------------------------------: | ----------------------------: | --------------------: | ----------------: |
-| Autos, Quálitas 2025 (guía de la clase 12) |                        23.1% |                             n/d |                           n/d |                  5.3% |             94.1% |
+| Autos, Quálitas 2025 (guía de la clase 12) |                        23.1% |                       Sin datos |                     Sin datos |                  5.3% |             94.1% |
 | Autos, AXA Seguros 2025                      |                        20.9% |                           21.1% |                         11.2% |                  4.4% |            102.8% |
 | Autos, GNP 2024                              |                        26.8% |                           26.5% |                          7.0% |                    4% |              102% |
 | RC, AXA Seguros 2025                         |                        16.4% |                           24.7% |                         14.8% |                 21.1% |            101.1% |
 | RC, GNP 2024                                 |                         2.4% |                           18.4% |                         14.6% |                   12% |               52% |
 
-Explicaciones plausibles, que los reportes no demuestran: RC es un ramo chico (en AXA 2025, 1,412 millones frente a 15,393 de autos), así que sus gastos de suscripción y atención se reparten en menos prima. Además, RC se coloca más por agentes y bonos, mientras que en autos pesa más el rubro "otros" (9.9% en AXA y 19.5% en GNP), típico de canales masivos.
-
-## Cosas que no se si son relevantes para la tarea 2
-
-- **Redondeo:** GNP reporta porcentajes enteros (±0.5 puntos); mis cálculos reproducen los índices oficiales de AXA con diferencias de hasta 0.04 puntos.
+Lo que pudimos observar es que en el caso de RC es un ramo chico (en AXA 2025, 1,412 millones frente a 15,393 de autos), así que sus gastos de suscripción y atención se reparten en menos prima. Además, RC se coloca más por agentes y bonos, mientras que en autos pesa más el rubro "otros" (9.9% en AXA y 19.5% en GNP).
