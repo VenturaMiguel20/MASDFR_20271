@@ -16,7 +16,6 @@ Para Responsabilidad Civil propongo **comisiones de 18.4% a 24.7%** y **gastos d
 | Comisiones (Adquisición) | 18.4% – 24.7% | 21.5%         | Prima emitida (Clase) | AXA Seguros 2025 y GNP 2024             |
 | Gastos (Operación)       | 5.5% – 11.5%  | 9.0%          | Prima emitida (Clase) | AXA Seguros 2023–2025 y GNP 2022–2024 |
 
-El rango de comisiones descansa en solo dos observaciones (una por aseguradora); el de gastos, en seis. Las salvedades están al final.
 
 ## Fuentes
 
